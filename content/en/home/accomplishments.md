@@ -10,14 +10,14 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Дости&shy;жения'
 subtitle:
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
 
-# Достижения.
+# Accoplishments.
 #   Add/remove as many `item` blocks below as you like.
 #   `title`, `organization`, and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
@@ -29,7 +29,7 @@ item:
     description: ''
     organization: PartaOnline
     organization_url: https://partaonline.ru/
-    title: Getting ready for Exams
+    title: Готовимся к экзаменам
     url: ''
   - certificate_url: https://fintech.tinkoff.ru/
     date_end: ''
@@ -37,7 +37,7 @@ item:
     description: ''
     organization: Tinkoff
     organization_url: https://fintech.tinkoff.ru/
-    title: Getting money from Tinkoff
+    title: Деньги Тинькоффа
     url: ''
  
 
